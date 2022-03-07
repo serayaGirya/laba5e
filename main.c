@@ -8,6 +8,8 @@
 #include "string/tasks/task6.h"
 #include "string/tasks/task7.h"
 #include "string/tasks/task8.h"
+#include "string/tasks/task9.h"
+
 
 //5e tests
 
