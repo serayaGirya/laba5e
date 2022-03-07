@@ -77,6 +77,15 @@
 		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/main.c">
 			<Option target="laboratory5e"/>
 		</Unit>
+		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/string/string_.c">
+			<Option target="laboratory5e"/>
+		</Unit>
+		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/string/string_.h">
+			<Option target="laboratory5e"/>
+		</Unit>
+		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/string/tasks/task1.h">
+			<Option target="laboratory5e"/>
+		</Unit>
 		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

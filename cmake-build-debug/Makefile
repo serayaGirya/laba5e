@@ -152,6 +152,30 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\laboratory5e.dir\build.make CMakeFiles/laboratory5e.dir/main.c.s
 .PHONY : main.c.s
 
+string/string_.obj: string/string_.c.obj
+.PHONY : string/string_.obj
+
+# target to build an object file
+string/string_.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\laboratory5e.dir\build.make CMakeFiles/laboratory5e.dir/string/string_.c.obj
+.PHONY : string/string_.c.obj
+
+string/string_.i: string/string_.c.i
+.PHONY : string/string_.i
+
+# target to preprocess a source file
+string/string_.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\laboratory5e.dir\build.make CMakeFiles/laboratory5e.dir/string/string_.c.i
+.PHONY : string/string_.c.i
+
+string/string_.s: string/string_.c.s
+.PHONY : string/string_.s
+
+# target to generate assembly for a file
+string/string_.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\laboratory5e.dir\build.make CMakeFiles/laboratory5e.dir/string/string_.c.s
+.PHONY : string/string_.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -164,6 +188,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... string/string_.obj
+	@echo ... string/string_.i
+	@echo ... string/string_.s
 .PHONY : help
 
 
