@@ -2,8 +2,8 @@
 // Created by serge on 01.03.2022.
 //
 
-#ifndef LIBRARY1_TASK3_H
-#define LIBRARY1_TASK3_H
+#ifndef LABORATORY5E_TASK3_H
+#define LABORATORY5E_TASK3_H
 
 #include "../string_.h"
 
@@ -60,4 +60,4 @@ void test_digitToStartString_3() {
     test_digitToStartString_numbersAndLettersSeparately();
 }
 
-#endif //LIBRARY1_TASK3_H
+#endif

@@ -2,8 +2,8 @@
 // Created by serge on 01.03.2022.
 //
 
-#ifndef LIBRARY1_TASK1_H
-#define LIBRARY1_TASK1_H
+#ifndef LABORATORY5E_TASK1_H
+#define LABORATORY5E_TASK1_H
 
 #include "../string_.h"
 
@@ -43,4 +43,4 @@ void test_removeNonLetters_1() {
     test_removeNonLetters_AllCharactersAreSpaces();
 }
 
-#endif //LIBRARY1_TASK1_H
+#endif

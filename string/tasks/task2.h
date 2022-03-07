@@ -2,8 +2,8 @@
 // Created by serge on 01.03.2022.
 //
 
-#ifndef LIBRARY1_TASK2_H
-#define LIBRARY1_TASK2_H
+#ifndef LABORATORY5E_TASK2_H
+#define LABORATORY5E_TASK2_H
 
 #include <stdio.h>
 #include <ctype.h>
@@ -62,4 +62,4 @@ void test_removeExtraSpaces_2() {
     test_removeExtraSpaces_stringIsEmpty();
 }
 
-#endif //LIBRARY1_TASK2_H
+#endif
