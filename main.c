@@ -3,6 +3,7 @@
 #include "string/tasks/task1.h"
 #include "string/tasks/task2.h"
 #include "string/tasks/task3.h"
+#include "string/tasks/task4.h"
 
 
 //5e tests
