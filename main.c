@@ -4,6 +4,8 @@
 #include "string/tasks/task2.h"
 #include "string/tasks/task3.h"
 #include "string/tasks/task4.h"
+#include "string/tasks/task5.h"
+#include "string/tasks/task6.h"
 
 
 //5e tests
