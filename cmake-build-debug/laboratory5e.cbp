@@ -101,6 +101,9 @@
 		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/string/tasks/task6.h">
 			<Option target="laboratory5e"/>
 		</Unit>
+		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/string/tasks/task7.h">
+			<Option target="laboratory5e"/>
+		</Unit>
 		<Unit filename="C:/Users/serge/CLionProjects/laboratory5e/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

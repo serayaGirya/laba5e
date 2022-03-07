@@ -6,7 +6,7 @@
 #include "string/tasks/task4.h"
 #include "string/tasks/task5.h"
 #include "string/tasks/task6.h"
-
+#include "string/tasks/task7.h"
 
 //5e tests
 
