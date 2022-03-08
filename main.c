@@ -10,7 +10,15 @@
 #include "string/tasks/task8.h"
 #include "string/tasks/task9.h"
 #include "string/tasks/task10.h"
-
+#include "string/tasks/task11.h"
+#include "string/tasks/task12.h"
+#include "string/tasks/task13.h"
+#include "string/tasks/task14.h"
+#include "string/tasks/task15.h"
+#include "string/tasks/task16.h"
+#include "string/tasks/task17.h"
+#include "string/tasks/task18.h"
+#include "string/tasks/task19.h"
 
 
 //5e tests
@@ -122,11 +130,11 @@ int main() {
     test_lastWordInFirstStringIsInSecondString_12();
     test_equalWordsInStrings_13();
     test_wordsFromSameLetters_14();
-    //test_15
-    //test_16
-    //test_17
-    //test_18
-    //test_19
+    test_lineWithWordsOtherThanLast_15();
+    test_lastWordInFirstStringIsInSecondString_task16_16();
+    test_lineWithWordsOtherThanLast_task17_17();
+    test_addMissingWords();
+    test_f();
 
     return 0;
 }
